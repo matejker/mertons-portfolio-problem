@@ -1,0 +1,5 @@
+config.ini
+.idea
+.python-version
+.ipynb_checkpoints/
+libs/clients/__pycache__/
